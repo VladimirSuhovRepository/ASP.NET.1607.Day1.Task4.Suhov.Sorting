@@ -14,7 +14,7 @@ namespace ASP.NET._1607.Day1.Task4.Suhov
                 return "Mono";
             else
             if (IsDecrease(numb))
-                return "Desreasingr";
+                return "Desreasing";
             else
             if (IsIncrease(numb))
                 return "Increasing";
